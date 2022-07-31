@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-yQ7oiuGXRX47V21EibXbfTPXOkJGOgCJhW9YF6e4hw0=",
       "System.Private.CoreLib.dll": "sha256-Ug2\/rd8Ck7Dls6uaZNmrqc7EvE8f41iX96qdX57LStQ=",
       "ContosoUniversity.Shared.dll": "sha256-4+CVv285\/E7GoTxhER3TtvA\/Hau9Av+B8ckQwNi7V0w=",
-      "ContosoUniversity.Client.dll": "sha256-MZraJ17GNZWScGMpOHpLzzH8KN1sEaVdjQuvL6WmvvM="
+      "ContosoUniversity.Client.dll": "sha256-zbBjp+VyaaqSx\/rl32ysVBPb8k8ahFL98baNzacglvQ="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "ContosoUniversity.Shared.pdb": "sha256-LIsR9wYJOXFhbe9IG\/ObYWXgDRdlrNJSN+qkAhLpRYY=",
-      "ContosoUniversity.Client.pdb": "sha256-U4UDS5QpEpbGbvgFNksd9aG5QP2KTfflRcq6KDuL8cM="
+      "ContosoUniversity.Client.pdb": "sha256-Wx6a54F0n9KK4S0dhLDW+kDWo+49iwK2ak4HsARH9KM="
     },
     "runtime": {
       "dotnet.6.0.6.2tdc9lhcs7.js": "sha256-zJXgw\/tAzTVOXksPhtpZVT12vxHC7S9mQyBRM36dwD0=",

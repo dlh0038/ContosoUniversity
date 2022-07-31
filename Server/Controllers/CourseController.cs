@@ -7,17 +7,17 @@ namespace ContosoUniversity.Server.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class StudentController : ControllerBase
+    public class CourseController : ControllerBase
     {
-        private readonly IStudent _IStudent;
-        public StudentController(IStudent iStudent)
+        private readonly ICourse _ICourse;
+        public CourseController(ICourse iCourse)
         {
-            _IStudent = iStudent;
+            _ICourse = iCourse;
         }
         [HttpGet]
-        public async Task<List<Student>> Get()
+        public async Task<List<Course>> Get()
         {
-            return await Task.FromResult(_IStudent.GetUserDetails());
+            return await Task.FromResult(_ICourse.GetUserDetails());
         }
         
     }

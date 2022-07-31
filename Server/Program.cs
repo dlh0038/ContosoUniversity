@@ -11,6 +11,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddDbContext<SchoolContext> (options => options.UseSqlite("Data Source = CU.db"));
 builder.Services.AddTransient<IStudent, StudentManager>();
+builder.Services.AddTransient<ICourse, CourseManager>();
+builder.Services.AddTransient<IEnrollment, EnrollmentManager>();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();

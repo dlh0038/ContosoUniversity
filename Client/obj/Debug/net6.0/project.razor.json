@@ -140,6 +140,72 @@
         }
       },
       {
+        "HashCode": -1586233316,
+        "Kind": "Components.Component",
+        "Name": "ContosoUniversity.Client.Pages.Student.ViewStudents",
+        "AssemblyName": "ContosoUniversity.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ViewStudents"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ContosoUniversity.Client.Pages.Student.ViewStudents"
+        }
+      },
+      {
+        "HashCode": 1636366865,
+        "Kind": "Components.Component",
+        "Name": "ContosoUniversity.Client.Pages.Student.ViewStudents",
+        "AssemblyName": "ContosoUniversity.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ContosoUniversity.Client.Pages.Student.ViewStudents"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ContosoUniversity.Client.Pages.Student.ViewStudents",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -714755221,
+        "Kind": "Components.Component",
+        "Name": "ContosoUniversity.Client.Pages.Course.ViewCourses",
+        "AssemblyName": "ContosoUniversity.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ViewCourses"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ContosoUniversity.Client.Pages.Course.ViewCourses"
+        }
+      },
+      {
+        "HashCode": -324929086,
+        "Kind": "Components.Component",
+        "Name": "ContosoUniversity.Client.Pages.Course.ViewCourses",
+        "AssemblyName": "ContosoUniversity.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ContosoUniversity.Client.Pages.Course.ViewCourses"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ContosoUniversity.Client.Pages.Course.ViewCourses",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -626737912,
         "Kind": "Components.Component",
         "Name": "ContosoUniversity.Client.Shared.SurveyPrompt",
@@ -13654,6 +13720,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Users\\Denny\\Documents\\ContosoUniversity\\Client\\Pages\\Student\\ViewStudents.razor",
+      "TargetPath": "Pages\\Student\\ViewStudents.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\Denny\\Documents\\ContosoUniversity\\Client\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
@@ -13661,6 +13732,11 @@
     {
       "FilePath": "c:\\Users\\Denny\\Documents\\ContosoUniversity\\Client\\App.razor",
       "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Denny\\Documents\\ContosoUniversity\\Client\\Pages\\Course\\ViewCourses.razor",
+      "TargetPath": "Pages\\Course\\ViewCourses.razor",
       "FileKind": "component"
     },
     {
