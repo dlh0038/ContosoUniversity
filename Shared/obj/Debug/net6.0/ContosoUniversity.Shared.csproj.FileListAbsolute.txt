@@ -1,0 +1,12 @@
+C:\Users\Denny\Documents\ContosoUniversity\Shared\bin\Debug\net6.0\ContosoUniversity.Shared.deps.json
+C:\Users\Denny\Documents\ContosoUniversity\Shared\bin\Debug\net6.0\ContosoUniversity.Shared.dll
+C:\Users\Denny\Documents\ContosoUniversity\Shared\bin\Debug\net6.0\ContosoUniversity.Shared.pdb
+C:\Users\Denny\Documents\ContosoUniversity\Shared\obj\Debug\net6.0\ContosoUniversity.Shared.csproj.AssemblyReference.cache
+C:\Users\Denny\Documents\ContosoUniversity\Shared\obj\Debug\net6.0\ContosoUniversity.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denny\Documents\ContosoUniversity\Shared\obj\Debug\net6.0\ContosoUniversity.Shared.AssemblyInfoInputs.cache
+C:\Users\Denny\Documents\ContosoUniversity\Shared\obj\Debug\net6.0\ContosoUniversity.Shared.AssemblyInfo.cs
+C:\Users\Denny\Documents\ContosoUniversity\Shared\obj\Debug\net6.0\ContosoUniversity.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Denny\Documents\ContosoUniversity\Shared\obj\Debug\net6.0\ContosoUniversity.Shared.dll
+C:\Users\Denny\Documents\ContosoUniversity\Shared\obj\Debug\net6.0\refint\ContosoUniversity.Shared.dll
+C:\Users\Denny\Documents\ContosoUniversity\Shared\obj\Debug\net6.0\ContosoUniversity.Shared.pdb
+C:\Users\Denny\Documents\ContosoUniversity\Shared\obj\Debug\net6.0\ref\ContosoUniversity.Shared.dll
